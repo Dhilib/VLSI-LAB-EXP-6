@@ -35,7 +35,7 @@ To design and simulate the CMOS inverter and observe the DC and transient respon
 4.	This is a table of components for building the inverter schematic.
 5.	After entering components, click cancel in the add instance form or press ESC with your cursor in the schematic window.
 
-![329845465-ff2e4de9-cd56-4227-8ce4-c9887921b4f2](https://github.com/Subash190/VLSI-LAB-EXP-6/assets/162429716/f6290bac-d3dc-471f-86bf-0e531990d5b3)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-6/assets/165645979/b7ab6cd3-71bb-4eb4-8e27-62beaedf24f4)
 
 
 **Adding pins to schematic:**
@@ -106,28 +106,32 @@ f.	Select the enable button and click apply and then click ok.
 
 **NAND SCHEMATIC**
 
-![329845783-30bbf675-116a-4910-9195-37c198f40890](https://github.com/Subash190/VLSI-LAB-EXP-6/assets/162429716/937cc836-2696-43c2-92df-cd016530cb05)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-6/assets/165645979/ceaf758b-e42d-4bd3-abba-366beda9da5a)
+
 
 
 **NAND TEST CELL VIEW**
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-6/assets/165645979/d64452e0-9cf9-45a2-b481-d379433d0948)
 
-![329845846-0a7baba8-dd19-45e6-8a97-e0b7be9462c8](https://github.com/Subash190/VLSI-LAB-EXP-6/assets/162429716/8b3f683b-25e7-4d82-ba0b-3b047b566cf8)
 
 **NAND SIMULATION WITH SPECTRA**
- 
-![329845863-9b180d74-92c7-42aa-8652-30e7fbe89260](https://github.com/Subash190/VLSI-LAB-EXP-6/assets/162429716/6595d989-c155-4f25-a956-840462f5e620)
+ ![image](https://github.com/Dhilib/VLSI-LAB-EXP-6/assets/165645979/2ecc63a8-d06f-4081-9dde-ee35d4b11e6a)
+
 
 
 **CMOS NOR GATE**
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-6/assets/165645979/f97cee97-2c27-436f-820d-f43381e76840)
 
 **NOR SCHEMATIC**
-![329845885-3ec2637c-b359-430d-9642-10b92ebfdedb](https://github.com/Subash190/VLSI-LAB-EXP-6/assets/162429716/0a36b37d-5647-49bd-8954-02db4d493f43)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-6/assets/165645979/cc41e152-2f4f-4259-9ed6-d0884e44c73e)
+
 
 **NOR TEST CELL VIEW**
 
 **NOR SIMULATION WITH SPECTRA**
 
-![329845913-40828e25-0474-43c1-8e49-0d297ae6a11a](https://github.com/Subash190/VLSI-LAB-EXP-6/assets/162429716/192e1595-0d4f-4431-8149-bf1560cdb2eb)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-6/assets/165645979/490cdf6f-4bd5-4a36-9190-294af131d449)
+
 
 **RESULT:**
 
